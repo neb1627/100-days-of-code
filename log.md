@@ -36,7 +36,7 @@
 **Link(s) to work**:
 
 ### Day 8: Nov 15, 2021, Mon 
-**Today's Progress**: loan calculator
+**Today's Progress**: min & max responsive practice, start loan calculator
 **Thoughts:**
 **Link(s) to work**:
 
