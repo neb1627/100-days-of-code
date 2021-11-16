@@ -11,7 +11,7 @@
 **Link(s) to work**:
 
 ### Day 3: Nov 8, 2021, Mon 
-**Today's Progress**: CSS practice & 
+**Today's Progress**: CSS practice with specificity
 **Thoughts:**
 **Link(s) to work**:
 
@@ -26,17 +26,17 @@
 **Link(s) to work**:
 
 ### Day 6: Nov 11, 2021, Thurs
-**Today's Progress**: 
+**Today's Progress**: responsive layout
 **Thoughts:**
 **Link(s) to work**:
 
 ### Day 7: Nov 12, 2021, Fri 
-**Today's Progress**: 
+**Today's Progress**: responsive layout, froggy flexbox practice
 **Thoughts:**
 **Link(s) to work**:
 
 ### Day 8: Nov 15, 2021, Mon 
-**Today's Progress**: 
+**Today's Progress**: loan calculator
 **Thoughts:**
 **Link(s) to work**:
 
